@@ -28,5 +28,6 @@
     NSLog(@"addition result=%d",c);
     NSLog(@"My test");
     NSLog(@"another log added");
+    NSLog(@"jenkins changes");
 }
 @end
