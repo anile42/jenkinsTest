@@ -27,5 +27,6 @@
     int c=a+b;
     NSLog(@"addition result=%d",c);
     NSLog(@"My test");
+    NSLog(@"another log added");
 }
 @end
