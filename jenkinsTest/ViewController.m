@@ -29,5 +29,6 @@
     NSLog(@"My test");
     NSLog(@"another log added");
     NSLog(@"jenkins changes");
+    NSLog(@"added");
 }
 @end
